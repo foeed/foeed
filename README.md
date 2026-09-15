@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daxxx
 - 👀 I’m interested in Offensive Pentesting 
-- 🌱 I’m currently learning cybersecurity engineer 
+- 🌱 I’m cybersecurity engineer 
 - 💞️ I’m looking to collaborate on stratup 
 - 📫 How to reach me ... daaxxx
 
