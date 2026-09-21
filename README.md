@@ -1,10 +1,49 @@
-- 👋 Hi, I’m @daxxx
-- 👀 I’m interested in Offensive Pentesting 
-- 🌱 I’m cybersecurity engineer 
-- 💞️ I’m looking to collaborate on stratup 
-- 📫 How to reach me ... daaxxx
+<div align="center">
 
-<!---
-foeed/foeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🥷 @daxxx
+### ⚔️ Cybersecurity Engineer & Offensive Pentester ⚔️
+
+[![Website](https://shields.io)](https://cybox.uk)
+[![Email](https://shields.io)](mailto:hello@cybox.uk)
+
+</div>
+
+---
+
+### 🔎 About Me
+* **👀 Focus:** Deeply passionate about Offensive Pentesting, Red Teaming, and Vulnerability Research.
+* **🌱 Profession:** Working as a dedicated Cybersecurity Engineer.
+* **💞️ Startups:** Looking to collaborate and build disruptive security startups.
+* **🌐 Web:** Operating online at [cybox.uk](https://cybox.uk).
+
+---
+
+### 🛠️ Cyber Security Stack & Arsenal
+
+#### 🔴 Offensive Engineering
+* **OS / Frameworks:** Kali Linux, Parrot OS, Metasploit, ExploitDB
+* **Web & Network:** Burp Suite Professional, Nmap, Wireshark, OWASP Top 10
+* **Languages:** Python (Automation/Exploits), Bash, PowerShell, Go
+
+#### 🔵 Defensive & Infrastructure
+* **Environments:** Docker, Linux (Debian/Arch), Windows Server, Cloud Security
+* **Methodologies:** Threat Modeling, Network Assessments, Code Auditing
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://vercel.app" alt="daxxx GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Securing the digital landscape, one packet at a time. 🚀</sub>
+</div>
