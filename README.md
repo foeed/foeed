@@ -31,19 +31,6 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://vercel.app" alt="daxxx GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
-</div>
-
----
-
 <div align="center">
   <sub>Securing the digital landscape, one packet at a time. 🚀</sub>
 </div>
